@@ -1,6 +1,6 @@
 # AI-Powered Personalized Learning Platform
 
-(../New Project.png)
+<img src="https://github.com/Gudguykartik/Feynn-Labs-Internship-projects/blob/main/AI_LearningPlatform/New%20Project.png">
 *AI Learning Platform Dashboard View*
 
 ## 🎯 Overview
