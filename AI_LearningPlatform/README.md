@@ -1,6 +1,6 @@
 # AI-Powered Personalized Learning Platform
 
-![Platform Dashboard](./New Project.png)
+![Platform Dashboard](../New Project.png)
 *AI Learning Platform Dashboard View*
 
 ## 🎯 Overview
